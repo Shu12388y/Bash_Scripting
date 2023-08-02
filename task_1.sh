@@ -11,3 +11,5 @@ git commit -m "$message"
 git push
 
 # done 
+
+# now add a new file and run the above script see whether the new file is added in the github or not
